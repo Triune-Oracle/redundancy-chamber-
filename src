@@ -1,0 +1,11 @@
+/src
+  - main.js (or main component logic)
+  - config.js
+  - payout.js
+  - nftHandler.js
+/public
+  - index.html
+/docs
+  - backup-notes.md
+  - protocol-summary.pdf (drag-and-drop upload or placeholder link)
+README.md
